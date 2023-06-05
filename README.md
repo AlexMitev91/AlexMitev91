@@ -4,7 +4,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 - 🔭 Skills: 
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40' <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>
 
 - 📫 How to reach me:  
 
