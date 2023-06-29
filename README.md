@@ -5,7 +5,7 @@ Here you will find a collection of projects that I have worked on during my stud
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,jenkins,python" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,python" />
   </a>
 </p>
 
