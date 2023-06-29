@@ -11,7 +11,7 @@ Here you will find a collection of projects that I have worked on during my stud
 
 - 📫 How to reach me:  
 
-[<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/amitev91/) [<img src="https://skillicons.dev/icons?i=github">](https://github.com/https://github.com/AlexMitev91) 
+[<img src="https://skillicons.dev/icons?i=linkedin">](https://www.linkedin.com/in/amitev91/) [<img src="https://skillicons.dev/icons?i=github">](https://github.com/AlexMitev91) 
 
 
 
